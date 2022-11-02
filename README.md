@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mahabubul Hasan</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h1 align="center">Hello there 👋, I'm Mahabubul Hasan</h1>
+<h3 align="center">A passionate Software Engineer and machine learning enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahabubul470&label=Profile%20views&color=0e75b6&style=flat" alt="mahabubul470" /> </p>
 
